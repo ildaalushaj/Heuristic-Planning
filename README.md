@@ -1,4 +1,4 @@
-# Heurisitc-Planning
+# Heuristic-Planning
 -This is a project consiting of Any angle Path planning algorithms :
 
 Theta*
