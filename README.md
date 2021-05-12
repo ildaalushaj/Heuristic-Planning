@@ -6,6 +6,6 @@
 -Data is taken from : MovingAI .(Link to the page : https://movingai.com/benchmarks/grids.html)\
 -Download the necessary packages and run colab notebooks corresponding to Theta* and 2^kA* with different k\
 -The "all_tasks.pickle" contains 2 maps and 100 random tasks for each map are used to run and test the algorithms\
--The ".pickle" files are all the saved models for every algorithm and file\ 
+-The ".pickle" files are all the saved models for every algorithm and file 
 
 *This project was done by : Eugenia Mitrokhina and Ilda Alushaj*
